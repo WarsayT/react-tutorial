@@ -1,9 +1,15 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 50vmin;
   pointer-events: none;
 }
 
